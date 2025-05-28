@@ -1,7 +1,6 @@
-## Hi there 👋 
-• Discord: lerathkk
-• Email: mateusbatista0204@gmail.com
+## Hi there 👋  feel free to check my learning!
+- Discord: lerathkk <br>
+- Email: mateusbatista0204@gmail.com
 
-- Learning!
-<i class="devicon-javascript-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=30px />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=30px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width=30px/>
           
