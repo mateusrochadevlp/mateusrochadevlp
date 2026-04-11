@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo! 
-Desenvolvedor Back-end 🏗️🔨
+Desenvolvedor 🏗️🔨
 ## Onde me encontrar?:
 Email: mateusrocha@acad.ifma.edu.br<br>
 Linkedin: http://www.linkedin.com/in/mateus-rocha-devlp
