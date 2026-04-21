@@ -1,15 +1,16 @@
-## Olá, seja bem vindo! 
-Desenvolvedor 🏗️🔨
-## Onde me encontrar?:
-Email: mateusrocha@acad.ifma.edu.br<br>
-Linkedin: http://www.linkedin.com/in/mateus-rocha-devlp
+# 💻 Mateus Batista
+**`Desenvolvedor 🏗️`**
+
+Boas vindas! Me chamo Mateus e sou graduando em sistemas para internet pelo Instituto Federal do Maranhão. Almejando sempre mais conhecimento e destreza na area da tecnologia para aperfeiçoar meu desenvolvimento profissional. 
 
 ## Ferramentas 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=50px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width=70px />
-          
-## Sobre mim:
-- Graduando em Sistemas para Internet - IFMA
-- Gosto de desenvolvimento backend, analise de dados, hardware e principalmente conhecimento!
+<div style="display: inline_block"><br>
+    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+       <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />      
+</div>
 
+###
+![Mateus Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusrochadevlp&show_icons=true&theme=tokyonight)
